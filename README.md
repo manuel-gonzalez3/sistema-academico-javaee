@@ -16,6 +16,17 @@ The application handles three roles with differentiated views and permissions:
 - **Administrator**: create/disable/enable people, programs, courses, sections and exams;
   assign teachers; general listings.
 
+## Screenshots
+
+**Admin panel — academic management**
+![Admin panel](docs/img/panel-admin.png)
+
+**Teacher view — available exams**
+![Teacher exams](docs/img/docente-examenes.png)
+
+**Entity–Relationship diagram (database)**
+![ER diagram](docs/img/diagrama-er.png)
+
 ## Tech stack
 
 - **Java EE** — Servlets + JSP (MVC pattern: `entidades` / `servlets` / `util`)
@@ -72,6 +83,17 @@ La aplicación maneja tres roles con vistas y permisos diferenciados:
 - **Docente**: gestión de comisiones y exámenes, listado de cursos a cargo.
 - **Administrador**: alta/baja/habilitación de personas, carreras, cursos, comisiones y
   exámenes; asignación de docentes; listados generales.
+
+## Capturas
+
+**Panel de administrador — gestión académica**
+![Panel admin](docs/img/panel-admin.png)
+
+**Vista docente — exámenes disponibles**
+![Exámenes docente](docs/img/docente-examenes.png)
+
+**Diagrama Entidad–Relación (base de datos)**
+![Diagrama ER](docs/img/diagrama-er.png)
 
 ## Stack
 
