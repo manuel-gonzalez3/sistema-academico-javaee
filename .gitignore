@@ -1,0 +1,17 @@
+# Build
+target/
+build/
+bin/
+*.class
+*.war
+*.jar
+
+# Eclipse / IDE
+.metadata/
+.recommenders/
+*.iml
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
